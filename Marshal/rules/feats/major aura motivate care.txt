@@ -1,0 +1,6 @@
+name: Major Aura Motivate Care
+flags: 8
+prereqs:
+description: Bonus to Armor Class.
+prereq descr: Marshal 2
+parent: Major Aura

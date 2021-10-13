@@ -1,0 +1,6 @@
+name: Major Aura Steady Hand
+flags: 8
+prereqs:
+description: Bonus on ranged attack rolls.
+prereq descr: Marshal 2
+parent: Major Aura
